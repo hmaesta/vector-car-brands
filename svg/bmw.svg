@@ -1,0 +1,215 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="bmw-a" x1="-7.319%" x2="98.77%" y1="-5.389%" y2="97.127%">
+      <stop offset="0%" stop-color="#DFF4FF"/>
+      <stop offset="9.8%" stop-color="#D6EAF5"/>
+      <stop offset="26.8%" stop-color="#BFD0D9"/>
+      <stop offset="48.8%" stop-color="#98A5AC"/>
+      <stop offset="74.7%" stop-color="#646B6E"/>
+      <stop offset="100%" stop-color="#2B2B2B"/>
+    </linearGradient>
+    <radialGradient id="bmw-b" cx="-3.29%" cy=".85%" r="74.777%" fx="-3.29%" fy=".85%" gradientTransform="scale(1 .99999)">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="30.6%" stop-color="#A8A8A8"/>
+      <stop offset="64.6%" stop-color="#4F4F4F"/>
+      <stop offset="88.5%" stop-color="#161616"/>
+      <stop offset="100%"/>
+    </radialGradient>
+    <linearGradient id="bmw-c" x1="107.32%" x2="1.23%" y1="105.388%" y2="2.874%">
+      <stop offset="0%" stop-color="#DFF4FF"/>
+      <stop offset="8.6%" stop-color="#D6EAF5"/>
+      <stop offset="23.3%" stop-color="#BED0D9"/>
+      <stop offset="42.4%" stop-color="#96A4AC"/>
+      <stop offset="65.2%" stop-color="#5F686D"/>
+      <stop offset="90.7%" stop-color="#1A1D1E"/>
+      <stop offset="100%"/>
+    </linearGradient>
+    <radialGradient id="bmw-d" cx="-390.03%" cy="-65.138%" r="1359.379%" fx="-390.03%" fy="-65.138%" gradientTransform="matrix(.87272 0 0 1 -.496 0)">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="31%" stop-color="#FDFDFD"/>
+      <stop offset="45.1%" stop-color="#F6F6F6"/>
+      <stop offset="55.7%" stop-color="#E9E9E9"/>
+      <stop offset="64.6%" stop-color="#D7D7D7"/>
+      <stop offset="72.4%" stop-color="#BFBFBF"/>
+      <stop offset="79.4%" stop-color="#A2A2A2"/>
+      <stop offset="85.9%" stop-color="gray"/>
+      <stop offset="92%" stop-color="#575757"/>
+      <stop offset="97.5%" stop-color="#2B2B2B"/>
+      <stop offset="100%" stop-color="#141414"/>
+    </radialGradient>
+    <radialGradient id="bmw-e" cx="-485.273%" cy="-103.158%" r="965.799%" fx="-485.273%" fy="-103.158%" gradientTransform="matrix(1 0 0 .98452 0 -.016)">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="31%" stop-color="#FDFDFD"/>
+      <stop offset="45.1%" stop-color="#F6F6F6"/>
+      <stop offset="55.7%" stop-color="#E9E9E9"/>
+      <stop offset="64.6%" stop-color="#D7D7D7"/>
+      <stop offset="72.4%" stop-color="#BFBFBF"/>
+      <stop offset="79.4%" stop-color="#A2A2A2"/>
+      <stop offset="85.9%" stop-color="gray"/>
+      <stop offset="92%" stop-color="#575757"/>
+      <stop offset="97.5%" stop-color="#2B2B2B"/>
+      <stop offset="100%" stop-color="#141414"/>
+    </radialGradient>
+    <radialGradient id="bmw-f" cx="-141.319%" cy="-113.478%" r="986.884%" fx="-141.319%" fy="-113.478%" gradientTransform="scale(1 .99965)">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="31%" stop-color="#FDFDFD"/>
+      <stop offset="45.1%" stop-color="#F6F6F6"/>
+      <stop offset="55.7%" stop-color="#E9E9E9"/>
+      <stop offset="64.6%" stop-color="#D7D7D7"/>
+      <stop offset="72.4%" stop-color="#BFBFBF"/>
+      <stop offset="79.4%" stop-color="#A2A2A2"/>
+      <stop offset="85.9%" stop-color="gray"/>
+      <stop offset="92%" stop-color="#575757"/>
+      <stop offset="97.5%" stop-color="#2B2B2B"/>
+      <stop offset="100%" stop-color="#141414"/>
+    </radialGradient>
+    <radialGradient id="bmw-g" cx="-3.29%" cy=".85%" r="74.777%" fx="-3.29%" fy=".85%" gradientTransform="scale(1 .99999)">
+      <stop offset="0%" stop-color="#E6E6E6"/>
+      <stop offset="10.4%" stop-color="#D6D6D6"/>
+      <stop offset="30.7%" stop-color="#ADADAD"/>
+      <stop offset="58.8%" stop-color="#6C6C6C"/>
+      <stop offset="93.3%" stop-color="#121212"/>
+      <stop offset="100%"/>
+    </radialGradient>
+    <radialGradient id="bmw-h" cx="16.19%" cy="9.75%" r="111.963%" fx="16.19%" fy="9.75%">
+      <stop offset="0%" stop-color="#FFF"/>
+      <stop offset="34.4%" stop-color="#FDFDFD"/>
+      <stop offset="48.1%" stop-color="#F6F6F6"/>
+      <stop offset="58.2%" stop-color="#EAEAEA"/>
+      <stop offset="66.5%" stop-color="#D8D8D8"/>
+      <stop offset="73.7%" stop-color="#C2C2C2"/>
+      <stop offset="80.2%" stop-color="#A6A6A6"/>
+      <stop offset="86%" stop-color="#848484"/>
+      <stop offset="91.3%" stop-color="#5F5F5F"/>
+      <stop offset="94.9%" stop-color="#404040"/>
+      <stop offset="95.7%" stop-color="#404040"/>
+      <stop offset="100%" stop-color="#404040"/>
+      <stop offset="100%"/>
+    </radialGradient>
+    <radialGradient id="bmw-i" cx="-33.16%" cy="-65.129%" r="395.967%" fx="-33.16%" fy="-65.129%">
+      <stop offset="16.9%" stop-color="#FFF"/>
+      <stop offset="19.6%" stop-color="#E0EFF7"/>
+      <stop offset="24.1%" stop-color="#B2D9EC"/>
+      <stop offset="28.7%" stop-color="#8BC5E2"/>
+      <stop offset="33.5%" stop-color="#6BB5DA"/>
+      <stop offset="38.4%" stop-color="#52A9D4"/>
+      <stop offset="43.6%" stop-color="#41A0CF"/>
+      <stop offset="49.1%" stop-color="#369BCD"/>
+      <stop offset="55.6%" stop-color="#39C"/>
+      <stop offset="60.6%" stop-color="#3396C8"/>
+      <stop offset="65.5%" stop-color="#328EBC"/>
+      <stop offset="70.5%" stop-color="#3180A8"/>
+      <stop offset="75.4%" stop-color="#2F6D8C"/>
+      <stop offset="80.3%" stop-color="#2D5468"/>
+      <stop offset="85.1%" stop-color="#2A373D"/>
+      <stop offset="87.1%" stop-color="#292929"/>
+    </radialGradient>
+    <radialGradient id="bmw-j" cx="-133.16%" cy="-165.131%" r="395.959%" fx="-133.16%" fy="-165.131%">
+      <stop offset="16.9%" stop-color="#FFF"/>
+      <stop offset="19.6%" stop-color="#E0EFF7"/>
+      <stop offset="24.1%" stop-color="#B2D9EC"/>
+      <stop offset="28.7%" stop-color="#8BC5E2"/>
+      <stop offset="33.5%" stop-color="#6BB5DA"/>
+      <stop offset="38.4%" stop-color="#52A9D4"/>
+      <stop offset="43.6%" stop-color="#41A0CF"/>
+      <stop offset="49.1%" stop-color="#369BCD"/>
+      <stop offset="55.6%" stop-color="#39C"/>
+      <stop offset="60.6%" stop-color="#3396C8"/>
+      <stop offset="65.5%" stop-color="#328EBC"/>
+      <stop offset="70.5%" stop-color="#3180A8"/>
+      <stop offset="75.4%" stop-color="#2F6D8C"/>
+      <stop offset="80.3%" stop-color="#2D5468"/>
+      <stop offset="85.1%" stop-color="#2A373D"/>
+      <stop offset="87.1%" stop-color="#292929"/>
+    </radialGradient>
+    <radialGradient id="bmw-k" cx="-3.29%" cy=".85%" r="74.777%" fx="-3.29%" fy=".85%" gradientTransform="scale(1 .99998)">
+      <stop offset="0%" stop-color="#E6E6E6"/>
+      <stop offset="10.4%" stop-color="#D6D6D6"/>
+      <stop offset="30.7%" stop-color="#ADADAD"/>
+      <stop offset="58.8%" stop-color="#6C6C6C"/>
+      <stop offset="93.3%" stop-color="#121212"/>
+      <stop offset="100%"/>
+    </radialGradient>
+    <linearGradient id="bmw-l" x1="-21.978%" x2="128.032%" y1="-37.705%" y2="107.25%">
+      <stop offset="0%" stop-color="#F0F4FF"/>
+      <stop offset="10.9%" stop-color="#EBEFF9"/>
+      <stop offset="24.7%" stop-color="#DCE0EA"/>
+      <stop offset="40.3%" stop-color="#C4C7CF"/>
+      <stop offset="57%" stop-color="#A2A4AB"/>
+      <stop offset="74.7%" stop-color="#76777C"/>
+      <stop offset="92.9%" stop-color="#414243"/>
+      <stop offset="100%" stop-color="#2B2B2B"/>
+    </linearGradient>
+    <linearGradient id="bmw-m" x1="-40.12%" x2="109.892%" y1="-18.937%" y2="126.024%">
+      <stop offset="0%" stop-color="#F0F4FF"/>
+      <stop offset="10.9%" stop-color="#EBEFF9"/>
+      <stop offset="24.7%" stop-color="#DCE0EA"/>
+      <stop offset="40.3%" stop-color="#C4C7CF"/>
+      <stop offset="57%" stop-color="#A2A4AB"/>
+      <stop offset="74.7%" stop-color="#76777C"/>
+      <stop offset="92.9%" stop-color="#414243"/>
+      <stop offset="100%" stop-color="#2B2B2B"/>
+    </linearGradient>
+    <linearGradient id="bmw-n" x1="32.516%" x2="110.222%" y1="33.103%" y2="108.198%">
+      <stop offset="0%" stop-color="#C2D7E8"/>
+      <stop offset="13.4%" stop-color="#BACFE1"/>
+      <stop offset="34.3%" stop-color="#A4BACD"/>
+      <stop offset="60%" stop-color="#8098AC"/>
+      <stop offset="89.4%" stop-color="#4E697F"/>
+      <stop offset="100%" stop-color="#3A566D"/>
+    </linearGradient>
+    <linearGradient id="bmw-o" x1="-7.292%" x2="142.57%" y1="-52.539%" y2="91.985%">
+      <stop offset="0%" stop-color="#F0F4FF"/>
+      <stop offset="9.7%" stop-color="#E8EBF6"/>
+      <stop offset="25.7%" stop-color="#D1D4DD"/>
+      <stop offset="45.9%" stop-color="#ABAEB5"/>
+      <stop offset="69.5%" stop-color="#78797D"/>
+      <stop offset="95.8%" stop-color="#363637"/>
+      <stop offset="100%" stop-color="#2B2B2B"/>
+    </linearGradient>
+    <linearGradient id="bmw-p" x1="-.836%" x2="51.835%" y1=".873%" y2="51.774%">
+      <stop offset="0%" stop-color="#D9DEF0"/>
+      <stop offset="12.3%" stop-color="#D4DAEC"/>
+      <stop offset="26.3%" stop-color="#C7CFE2"/>
+      <stop offset="41.1%" stop-color="#B0BCD1"/>
+      <stop offset="56.6%" stop-color="#90A1B8"/>
+      <stop offset="72.5%" stop-color="#677F99"/>
+      <stop offset="88.5%" stop-color="#355674"/>
+      <stop offset="97.2%" stop-color="#173D5D"/>
+    </linearGradient>
+    <linearGradient id="bmw-q" x1="-54.724%" x2="95.281%" y1="-3.817%" y2="141.141%">
+      <stop offset="0%" stop-color="#F0F4FF"/>
+      <stop offset="10.9%" stop-color="#EBEFF9"/>
+      <stop offset="24.7%" stop-color="#DCE0EA"/>
+      <stop offset="40.3%" stop-color="#C4C7CF"/>
+      <stop offset="57%" stop-color="#A2A4AB"/>
+      <stop offset="74.7%" stop-color="#76777C"/>
+      <stop offset="92.9%" stop-color="#414243"/>
+      <stop offset="100%" stop-color="#2B2B2B"/>
+    </linearGradient>
+  </defs>
+  <g fill="none">
+    <path fill="url(#bmw-a)" d="M99.9723866,0 C44.7613412,0 0,44.757002 0,99.9700197 C0,155.182446 44.7613412,199.940237 99.9723866,199.940237 C155.187377,199.940237 199.944181,155.182446 199.944181,99.9700197 C199.944181,44.757002 155.187771,0 99.9723866,0 Z M99.9723866,194.941223 C47.5189349,194.941223 5.00295858,152.421893 5.00295858,99.9700197 C5.00295858,47.5189349 47.5189349,4.99723866 99.9723866,4.99723866 C152.425641,4.99723866 194.94497,47.5187377 194.94497,99.9700197 C194.94497,152.421696 152.425641,194.941223 99.9723866,194.941223 Z"/>
+    <path fill="#333" d="M195.661538,99.9700197 C195.661538,152.813018 152.815779,195.657199 99.9723866,195.657199 C47.1284024,195.657199 4.28737673,152.813018 4.28737673,99.9700197 C4.28737673,47.1240631 47.1284024,4.28303748 99.9723866,4.28303748 C152.815779,4.28303748 195.661538,47.1240631 195.661538,99.9700197 Z"/>
+    <path fill="url(#bmw-b)" d="M194.94497,99.9700197 C194.94497,152.421893 152.425641,194.941223 99.9723866,194.941223 C47.5189349,194.941223 5.00295858,152.421893 5.00295858,99.9700197 C5.00295858,47.5189349 47.5189349,4.99723866 99.9723866,4.99723866 C152.425641,4.99723866 194.94497,47.5189349 194.94497,99.9700197 Z"/>
+    <path fill="url(#bmw-c)" d="M163.644379,99.9700197 C163.644379,135.133728 135.137475,163.639448 99.9727811,163.639448 C64.8072978,163.639448 36.3003945,135.134122 36.3003945,99.9700197 C36.3003945,64.8045365 64.8072978,36.2984221 99.9727811,36.2984221 C135.137278,36.2984221 163.644379,64.8047337 163.644379,99.9700197 Z"/>
+    <path fill="#000" d="M102.52288,34.5775148 L109.136884,17.0475345 L109.136884,34.5775148 L114.160355,34.5775148 L114.160355,9.47159763 L106.611045,9.47159763 L99.7443787,27.44714 L99.8096647,27.44714 L92.9433925,9.47159763 L85.3938856,9.47159763 L85.3938856,34.5775148 L90.417357,34.5775148 L90.417357,17.0475345 L97.0313609,34.5775148 L102.52288,34.5775148 Z M171.46213,45.8351085 L162.879487,58.3493097 L176.360158,51.7191321 L180.016568,56.1039448 L158.799803,66.7571992 L154.512821,61.5668639 L162.737081,49.1666667 L162.688363,49.1055227 L149.008481,54.9607495 L144.672387,49.8053254 L158.978501,30.8617357 L162.6357,35.2489152 L153.677712,47.3118343 L167.541026,41.1285996 L171.46213,45.8351085 Z"/>
+    <path fill="#333" d="M55.508284,41.0390533 C53.4863905,39.0763314 50.3664694,38.4846154 47.4335306,40.3027613 C47.995069,38.8504931 47.7670611,37.3721893 47.4704142,36.5522682 C46.2053254,34.252071 45.7619329,33.961144 44.7289941,33.0885602 C41.3568047,30.2633136 37.8094675,32.6757396 35.2753452,35.695858 L23.0236686,50.2970414 L42.2840237,66.4558185 L55.2031558,51.0619329 C58.1560158,47.5435897 58.6118343,44.0554241 55.508284,41.0390533 L55.508284,41.0390533 Z M30.5928994,48.0804734 L37.952071,39.3104536 C38.8061144,38.2954635 40.7343195,38.3362919 41.9708087,39.377712 C43.3333333,40.5207101 43.3374753,42.1394477 42.422288,43.2317554 L35.1449704,51.9003945 L30.5928994,48.0804734 L30.5928994,48.0804734 Z M50.8954635,49.5386588 L43.2236686,58.6812623 L38.4199211,54.643787 L46.1489152,45.430572 C47.0234714,44.3889546 48.9717949,44.0859961 50.2857988,45.1881657 C51.7658777,46.4331361 51.9122288,48.3266272 50.8954635,49.5386588 L50.8954635,49.5386588 Z"/>
+    <polygon fill="url(#bmw-d)" points="102.576 33.607 109.19 16.078 109.19 33.607 114.214 33.607 114.214 8.502 106.664 8.502 99.797 26.477 99.863 26.477 92.996 8.502 85.446 8.502 85.446 33.607 90.47 33.607 90.47 16.078 97.085 33.607"/>
+    <polygon fill="url(#bmw-e)" points="171.511 44.151 162.932 56.665 176.413 50.033 180.066 54.42 158.852 65.073 154.565 59.881 162.79 47.482 162.742 47.419 149.057 53.277 144.726 48.119 159.032 29.178 162.688 33.563 153.732 45.626 167.59 39.445"/>
+    <path fill="url(#bmw-f)" d="M54.609073,40.5449704 C52.5915187,38.5822485 49.4674556,37.9901381 46.538856,39.8067061 C47.095858,38.3542406 46.8682446,36.8757396 46.5715976,36.0599606 C45.3063116,33.7558185 44.8670611,33.4688363 43.8254438,32.5944773 C40.4534517,29.7674556 36.9104536,32.1812623 34.3802761,35.204142 L22.1238659,49.8029586 L41.3848126,65.9619329 L54.3037475,50.5656805 C57.2532544,47.04714 57.7126233,43.5613412 54.609073,40.5449704 L54.609073,40.5449704 Z M29.6946746,47.5859961 L37.0530572,38.818146 C37.9035503,37.8013807 39.8313609,37.8420118 41.0719921,38.8810651 C42.434714,40.0262327 42.438856,41.6469428 41.5193294,42.7351085 L34.2465483,51.4055227 L29.6946746,47.5859961 L29.6946746,47.5859961 Z M50.0005917,49.0441815 L42.3287968,58.1865878 L37.516568,54.1491124 L45.2497041,44.933925 C46.1242604,43.8946746 48.0684418,43.5915187 49.3824458,44.6940828 C50.8710059,45.9406312 51.0175542,47.8301775 50.0005917,49.0441815 L50.0005917,49.0441815 Z"/>
+    <path fill="url(#bmw-g)" d="M38.4197239,99.9710059 C38.4197239,65.9753452 65.9788955,38.4161736 99.9725838,38.4161736 C133.97002,38.4161736 161.525247,65.9751479 161.525247,99.9710059 C161.525247,133.965286 133.97002,161.523274 99.9725838,161.523274 C65.978501,161.523274 38.4197239,133.965089 38.4197239,99.9710059 Z"/>
+    <path fill="url(#bmw-h)" d="M40.1893491,99.9710059 C40.1893491,66.9534517 66.9548323,40.1856016 99.9727811,40.1856016 C132.99073,40.1856016 159.759763,66.9532544 159.759763,99.9710059 C159.759763,132.988757 132.990138,159.75641 99.9725838,159.75641 C66.9550296,159.75641 40.1893491,132.988757 40.1893491,99.9710059 Z"/>
+    <path fill="url(#bmw-i)" d="M40.0954635,99.9710059 L99.9723866,99.9710059 L99.9723866,40.0940828 C66.9015779,40.0940828 40.0954635,66.9003945 40.0954635,99.9710059 Z"/>
+    <path fill="url(#bmw-j)" d="M99.9723866,99.9710059 L99.9723866,159.848323 C133.042801,159.848323 159.84931,133.037081 159.84931,99.9710059 L99.9723866,99.9710059 Z"/>
+    <polygon fill="url(#bmw-k)" points="160.345 98.907 101.034 98.907 101.034 39.596 98.91 39.596 98.91 98.907 39.599 98.907 39.599 101.031 98.91 101.031 98.91 160.344 101.034 160.344 101.034 101.031 160.345 101.031"/>
+    <path fill="url(#bmw-l)" d="M101.033531,41.2755424 C132.620118,41.8372781 158.108087,67.3232742 158.673373,98.9069034 L159.730375,98.9069034 C159.165878,66.7374753 133.205523,40.77357 101.033531,40.2120316 L101.033531,41.2755424 Z"/>
+    <path fill="#C2D7E8" d="M41.169428,98.8990138 C41.730572,67.2723866 67.2554241,41.7497041 98.8822485,41.1861933 L98.8822485,40.1244576 C66.666075,40.6877712 40.6731755,66.6863905 40.1076923,98.8990138 L41.169428,98.8990138 Z"/>
+    <path fill="url(#bmw-m)" d="M98.9106509,158.665286 C67.3246548,158.104339 41.8366864,132.616371 41.2751479,101.030572 L40.2138067,101.030572 C40.7788955,133.201775 66.7390533,159.166667 98.9106509,159.727811 L98.9106509,158.665286 Z"/>
+    <path fill="#12404F" d="M158.67357,101.030572 C158.108284,132.616371 132.619921,158.104339 101.034122,158.665286 L101.034122,159.727811 C133.20572,159.166667 159.169625,133.20217 159.730966,101.030572 L158.67357,101.030572 L158.67357,101.030572 Z"/>
+    <polygon fill="url(#bmw-n)" points="97.776 40.125 97.776 97.742 40.161 97.742 40.161 98.879 98.91 98.879 98.91 40.125"/>
+    <polygon fill="url(#bmw-o)" points="97.678 159.171 97.678 102.247 40.637 102.247 40.637 101.124 98.801 101.124 98.801 159.171"/>
+    <polygon fill="url(#bmw-p)" points="102.25 159.171 102.25 102.247 159.174 102.247 159.174 101.124 101.132 101.124 101.132 159.171"/>
+    <polygon fill="url(#bmw-q)" points="102.25 40.633 102.25 97.557 159.174 97.557 159.174 98.678 101.132 98.678 101.132 40.633"/>
+  </g>
+</svg>
